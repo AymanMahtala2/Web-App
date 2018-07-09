@@ -1,0 +1,22 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "expressjs leren",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymanMahtala2/Web-App.git"
+  },
+  "author": "2negros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymanMahtala2/Web-App/issues"
+  },
+  "homepage": "https://github.com/AymanMahtala2/Web-App#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
